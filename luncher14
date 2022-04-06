@@ -1,9 +1,9 @@
 {
   "data": [
 {
-      "admob_interstitial":"/22387492205,22581684593/com.royal.ioslauncher.iphone14luncher.Interstitial0.1648443743",
-      "admob_native":"/22387492205,22581684593/com.royal.ioslauncher.iphone14luncher.Native0.1648443718",
-      "admob_banner":"/22387492205,22581684593/com.royal.ioslauncher.iphone14luncher.Banner0.1648443687",
+      "admob_interstitial":"123",
+      "admob_native":"123",
+      "admob_banner":"123",
       "ispurchaseItem":"1"
 }
 ]
